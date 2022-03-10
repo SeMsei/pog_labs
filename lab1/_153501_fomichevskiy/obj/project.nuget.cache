@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7kh41VysGrGIIVBbLbZqigZekjHYngLGOQgpecq7099CVjujauMDwjOL4MzwpIXPjxxJCKuMa5ZjSCmL2DYPSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fomic\\prog_labs\\lab1\\_153501_fomichevskiy\\_15.501_fomichevskiy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fomic\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\fomic\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

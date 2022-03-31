@@ -1,0 +1,12 @@
+C:\Users\fomic\pog_labs\lab3\task3\DateService\obj\Debug\net6.0\DateService.csproj.AssemblyReference.cache
+C:\Users\fomic\pog_labs\lab3\task3\DateService\obj\Debug\net6.0\DateService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fomic\pog_labs\lab3\task3\DateService\obj\Debug\net6.0\DateService.AssemblyInfoInputs.cache
+C:\Users\fomic\pog_labs\lab3\task3\DateService\obj\Debug\net6.0\DateService.AssemblyInfo.cs
+C:\Users\fomic\pog_labs\lab3\task3\DateService\obj\Debug\net6.0\DateService.csproj.CoreCompileInputs.cache
+C:\Users\fomic\pog_labs\lab3\task3\DateService\bin\Debug\net6.0\DateService.deps.json
+C:\Users\fomic\pog_labs\lab3\task3\DateService\bin\Debug\net6.0\DateService.dll
+C:\Users\fomic\pog_labs\lab3\task3\DateService\bin\Debug\net6.0\DateService.pdb
+C:\Users\fomic\pog_labs\lab3\task3\DateService\obj\Debug\net6.0\DateService.dll
+C:\Users\fomic\pog_labs\lab3\task3\DateService\obj\Debug\net6.0\refint\DateService.dll
+C:\Users\fomic\pog_labs\lab3\task3\DateService\obj\Debug\net6.0\DateService.pdb
+C:\Users\fomic\pog_labs\lab3\task3\DateService\obj\Debug\net6.0\ref\DateService.dll

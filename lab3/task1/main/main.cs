@@ -7,6 +7,8 @@ Calculate calculator = new Calculate();
 
 int num;
 
+Console.WriteLine("Enter number\n");
+
 bool fl = int.TryParse(Console.ReadLine(), out num);
 
 if (!fl)

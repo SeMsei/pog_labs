@@ -1,0 +1,12 @@
+C:\users\fomic\pog_labs\lab4\task1\rate\bin\Debug\net6.0\rate.deps.json
+C:\users\fomic\pog_labs\lab4\task1\rate\bin\Debug\net6.0\rate.dll
+C:\users\fomic\pog_labs\lab4\task1\rate\bin\Debug\net6.0\rate.pdb
+C:\users\fomic\pog_labs\lab4\task1\rate\obj\Debug\net6.0\rate.csproj.AssemblyReference.cache
+C:\users\fomic\pog_labs\lab4\task1\rate\obj\Debug\net6.0\rate.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\fomic\pog_labs\lab4\task1\rate\obj\Debug\net6.0\rate.AssemblyInfoInputs.cache
+C:\users\fomic\pog_labs\lab4\task1\rate\obj\Debug\net6.0\rate.AssemblyInfo.cs
+C:\users\fomic\pog_labs\lab4\task1\rate\obj\Debug\net6.0\rate.csproj.CoreCompileInputs.cache
+C:\users\fomic\pog_labs\lab4\task1\rate\obj\Debug\net6.0\rate.dll
+C:\users\fomic\pog_labs\lab4\task1\rate\obj\Debug\net6.0\refint\rate.dll
+C:\users\fomic\pog_labs\lab4\task1\rate\obj\Debug\net6.0\rate.pdb
+C:\users\fomic\pog_labs\lab4\task1\rate\obj\Debug\net6.0\ref\rate.dll

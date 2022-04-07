@@ -1,0 +1,15 @@
+C:\users\fomic\pog_labs\lab4\task1\hostel\bin\Debug\net6.0\hostel.deps.json
+C:\users\fomic\pog_labs\lab4\task1\hostel\bin\Debug\net6.0\hostel.dll
+C:\users\fomic\pog_labs\lab4\task1\hostel\bin\Debug\net6.0\hostel.pdb
+C:\users\fomic\pog_labs\lab4\task1\hostel\bin\Debug\net6.0\rate.dll
+C:\users\fomic\pog_labs\lab4\task1\hostel\bin\Debug\net6.0\rate.pdb
+C:\users\fomic\pog_labs\lab4\task1\hostel\obj\Debug\net6.0\hostel.csproj.AssemblyReference.cache
+C:\users\fomic\pog_labs\lab4\task1\hostel\obj\Debug\net6.0\hostel.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\fomic\pog_labs\lab4\task1\hostel\obj\Debug\net6.0\hostel.AssemblyInfoInputs.cache
+C:\users\fomic\pog_labs\lab4\task1\hostel\obj\Debug\net6.0\hostel.AssemblyInfo.cs
+C:\users\fomic\pog_labs\lab4\task1\hostel\obj\Debug\net6.0\hostel.csproj.CoreCompileInputs.cache
+C:\users\fomic\pog_labs\lab4\task1\hostel\obj\Debug\net6.0\hostel.csproj.CopyComplete
+C:\users\fomic\pog_labs\lab4\task1\hostel\obj\Debug\net6.0\hostel.dll
+C:\users\fomic\pog_labs\lab4\task1\hostel\obj\Debug\net6.0\refint\hostel.dll
+C:\users\fomic\pog_labs\lab4\task1\hostel\obj\Debug\net6.0\hostel.pdb
+C:\users\fomic\pog_labs\lab4\task1\hostel\obj\Debug\net6.0\ref\hostel.dll

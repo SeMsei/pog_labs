@@ -1,0 +1,17 @@
+C:\Users\fomic\pog_labs\lab5\task1\hostel\obj\Debug\net6.0\hostel.csproj.AssemblyReference.cache
+C:\Users\fomic\pog_labs\lab5\task1\hostel\obj\Debug\net6.0\hostel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fomic\pog_labs\lab5\task1\hostel\obj\Debug\net6.0\hostel.AssemblyInfoInputs.cache
+C:\Users\fomic\pog_labs\lab5\task1\hostel\obj\Debug\net6.0\hostel.AssemblyInfo.cs
+C:\Users\fomic\pog_labs\lab5\task1\hostel\obj\Debug\net6.0\hostel.csproj.CoreCompileInputs.cache
+C:\Users\fomic\pog_labs\lab5\task1\hostel\bin\Debug\net6.0\hostel.deps.json
+C:\Users\fomic\pog_labs\lab5\task1\hostel\bin\Debug\net6.0\hostel.dll
+C:\Users\fomic\pog_labs\lab5\task1\hostel\bin\Debug\net6.0\hostel.pdb
+C:\Users\fomic\pog_labs\lab5\task1\hostel\bin\Debug\net6.0\client.dll
+C:\Users\fomic\pog_labs\lab5\task1\hostel\bin\Debug\net6.0\room.dll
+C:\Users\fomic\pog_labs\lab5\task1\hostel\bin\Debug\net6.0\client.pdb
+C:\Users\fomic\pog_labs\lab5\task1\hostel\bin\Debug\net6.0\room.pdb
+C:\Users\fomic\pog_labs\lab5\task1\hostel\obj\Debug\net6.0\hostel.csproj.CopyComplete
+C:\Users\fomic\pog_labs\lab5\task1\hostel\obj\Debug\net6.0\hostel.dll
+C:\Users\fomic\pog_labs\lab5\task1\hostel\obj\Debug\net6.0\refint\hostel.dll
+C:\Users\fomic\pog_labs\lab5\task1\hostel\obj\Debug\net6.0\hostel.pdb
+C:\Users\fomic\pog_labs\lab5\task1\hostel\obj\Debug\net6.0\ref\hostel.dll

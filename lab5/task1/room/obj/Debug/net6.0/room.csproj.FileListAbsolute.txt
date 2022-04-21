@@ -1,0 +1,12 @@
+C:\Users\fomic\pog_labs\lab5\task1\room\obj\Debug\net6.0\room.csproj.AssemblyReference.cache
+C:\Users\fomic\pog_labs\lab5\task1\room\obj\Debug\net6.0\room.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fomic\pog_labs\lab5\task1\room\obj\Debug\net6.0\room.AssemblyInfoInputs.cache
+C:\Users\fomic\pog_labs\lab5\task1\room\obj\Debug\net6.0\room.AssemblyInfo.cs
+C:\Users\fomic\pog_labs\lab5\task1\room\obj\Debug\net6.0\room.csproj.CoreCompileInputs.cache
+C:\Users\fomic\pog_labs\lab5\task1\room\bin\Debug\net6.0\room.deps.json
+C:\Users\fomic\pog_labs\lab5\task1\room\bin\Debug\net6.0\room.dll
+C:\Users\fomic\pog_labs\lab5\task1\room\bin\Debug\net6.0\room.pdb
+C:\Users\fomic\pog_labs\lab5\task1\room\obj\Debug\net6.0\room.dll
+C:\Users\fomic\pog_labs\lab5\task1\room\obj\Debug\net6.0\refint\room.dll
+C:\Users\fomic\pog_labs\lab5\task1\room\obj\Debug\net6.0\room.pdb
+C:\Users\fomic\pog_labs\lab5\task1\room\obj\Debug\net6.0\ref\room.dll

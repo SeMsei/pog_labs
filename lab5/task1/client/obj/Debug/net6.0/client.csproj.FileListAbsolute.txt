@@ -1,0 +1,15 @@
+C:\Users\fomic\pog_labs\lab5\task1\client\obj\Debug\net6.0\client.csproj.AssemblyReference.cache
+C:\Users\fomic\pog_labs\lab5\task1\client\obj\Debug\net6.0\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fomic\pog_labs\lab5\task1\client\obj\Debug\net6.0\client.AssemblyInfoInputs.cache
+C:\Users\fomic\pog_labs\lab5\task1\client\obj\Debug\net6.0\client.AssemblyInfo.cs
+C:\Users\fomic\pog_labs\lab5\task1\client\obj\Debug\net6.0\client.csproj.CoreCompileInputs.cache
+C:\Users\fomic\pog_labs\lab5\task1\client\bin\Debug\net6.0\client.deps.json
+C:\Users\fomic\pog_labs\lab5\task1\client\bin\Debug\net6.0\client.dll
+C:\Users\fomic\pog_labs\lab5\task1\client\bin\Debug\net6.0\client.pdb
+C:\Users\fomic\pog_labs\lab5\task1\client\bin\Debug\net6.0\room.dll
+C:\Users\fomic\pog_labs\lab5\task1\client\bin\Debug\net6.0\room.pdb
+C:\Users\fomic\pog_labs\lab5\task1\client\obj\Debug\net6.0\client.csproj.CopyComplete
+C:\Users\fomic\pog_labs\lab5\task1\client\obj\Debug\net6.0\client.dll
+C:\Users\fomic\pog_labs\lab5\task1\client\obj\Debug\net6.0\refint\client.dll
+C:\Users\fomic\pog_labs\lab5\task1\client\obj\Debug\net6.0\client.pdb
+C:\Users\fomic\pog_labs\lab5\task1\client\obj\Debug\net6.0\ref\client.dll

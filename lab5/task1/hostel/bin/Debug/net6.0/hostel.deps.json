@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hostel/1.0.0": {
+        "dependencies": {
+          "client": "1.0.0",
+          "room": "1.0.0"
+        },
+        "runtime": {
+          "hostel.dll": {}
+        }
+      },
+      "client/1.0.0": {
+        "dependencies": {
+          "room": "1.0.0"
+        },
+        "runtime": {
+          "client.dll": {}
+        }
+      },
+      "room/1.0.0": {
+        "runtime": {
+          "room.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hostel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "room/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

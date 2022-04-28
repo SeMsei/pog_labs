@@ -5,7 +5,7 @@ public class Yoga: Sport
 {
     string name = "yoga";
     int numberOfExercises;
-    public Yoga(int time_, int numOfExercises_): base(time_, 1)
+    public Yoga(int time_, int numOfExercises_): base(time_, 1) 
     {
         numberOfExercises = numOfExercises_;
         Console.WriteLine("Yoga");

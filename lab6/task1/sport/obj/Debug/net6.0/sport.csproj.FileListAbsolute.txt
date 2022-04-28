@@ -1,0 +1,12 @@
+C:\Users\fomic\pog_labs\lab6\task1\sport\bin\Debug\net6.0\sport.deps.json
+C:\Users\fomic\pog_labs\lab6\task1\sport\bin\Debug\net6.0\sport.dll
+C:\Users\fomic\pog_labs\lab6\task1\sport\bin\Debug\net6.0\sport.pdb
+C:\Users\fomic\pog_labs\lab6\task1\sport\obj\Debug\net6.0\sport.csproj.AssemblyReference.cache
+C:\Users\fomic\pog_labs\lab6\task1\sport\obj\Debug\net6.0\sport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fomic\pog_labs\lab6\task1\sport\obj\Debug\net6.0\sport.AssemblyInfoInputs.cache
+C:\Users\fomic\pog_labs\lab6\task1\sport\obj\Debug\net6.0\sport.AssemblyInfo.cs
+C:\Users\fomic\pog_labs\lab6\task1\sport\obj\Debug\net6.0\sport.csproj.CoreCompileInputs.cache
+C:\Users\fomic\pog_labs\lab6\task1\sport\obj\Debug\net6.0\sport.dll
+C:\Users\fomic\pog_labs\lab6\task1\sport\obj\Debug\net6.0\refint\sport.dll
+C:\Users\fomic\pog_labs\lab6\task1\sport\obj\Debug\net6.0\sport.pdb
+C:\Users\fomic\pog_labs\lab6\task1\sport\obj\Debug\net6.0\ref\sport.dll

@@ -1,0 +1,15 @@
+C:\Users\fomic\pog_labs\lab6\task1\yoga\obj\Debug\net6.0\running.csproj.AssemblyReference.cache
+C:\Users\fomic\pog_labs\lab6\task1\yoga\obj\Debug\net6.0\running.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fomic\pog_labs\lab6\task1\yoga\obj\Debug\net6.0\running.AssemblyInfoInputs.cache
+C:\Users\fomic\pog_labs\lab6\task1\yoga\obj\Debug\net6.0\running.AssemblyInfo.cs
+C:\Users\fomic\pog_labs\lab6\task1\yoga\obj\Debug\net6.0\running.csproj.CoreCompileInputs.cache
+C:\Users\fomic\pog_labs\lab6\task1\yoga\bin\Debug\net6.0\running.deps.json
+C:\Users\fomic\pog_labs\lab6\task1\yoga\bin\Debug\net6.0\running.dll
+C:\Users\fomic\pog_labs\lab6\task1\yoga\bin\Debug\net6.0\running.pdb
+C:\Users\fomic\pog_labs\lab6\task1\yoga\bin\Debug\net6.0\sport.dll
+C:\Users\fomic\pog_labs\lab6\task1\yoga\bin\Debug\net6.0\sport.pdb
+C:\Users\fomic\pog_labs\lab6\task1\yoga\obj\Debug\net6.0\running.csproj.CopyComplete
+C:\Users\fomic\pog_labs\lab6\task1\yoga\obj\Debug\net6.0\running.dll
+C:\Users\fomic\pog_labs\lab6\task1\yoga\obj\Debug\net6.0\refint\running.dll
+C:\Users\fomic\pog_labs\lab6\task1\yoga\obj\Debug\net6.0\running.pdb
+C:\Users\fomic\pog_labs\lab6\task1\yoga\obj\Debug\net6.0\ref\running.dll

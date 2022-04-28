@@ -1,0 +1,134 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "racing/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "sport": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/racing.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/racing.dll": {}
+        }
+      },
+      "running/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "sport": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/running.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/running.dll": {}
+        }
+      },
+      "sport/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/sport.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/sport.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "racing/1.0.0": {
+      "type": "project",
+      "path": "../racing/racing.csproj",
+      "msbuildProject": "../racing/racing.csproj"
+    },
+    "running/1.0.0": {
+      "type": "project",
+      "path": "../yoga/running.csproj",
+      "msbuildProject": "../yoga/running.csproj"
+    },
+    "sport/1.0.0": {
+      "type": "project",
+      "path": "../sport/sport.csproj",
+      "msbuildProject": "../sport/sport.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "racing >= 1.0.0",
+      "running >= 1.0.0",
+      "sport >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\fomic\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\fomic\\pog_labs\\lab6\\task1\\main\\main.csproj",
+      "projectName": "main",
+      "projectPath": "C:\\Users\\fomic\\pog_labs\\lab6\\task1\\main\\main.csproj",
+      "packagesPath": "C:\\Users\\fomic\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fomic\\pog_labs\\lab6\\task1\\main\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\fomic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\fomic\\pog_labs\\lab6\\task1\\racing\\racing.csproj": {
+              "projectPath": "C:\\Users\\fomic\\pog_labs\\lab6\\task1\\racing\\racing.csproj"
+            },
+            "C:\\Users\\fomic\\pog_labs\\lab6\\task1\\sport\\sport.csproj": {
+              "projectPath": "C:\\Users\\fomic\\pog_labs\\lab6\\task1\\sport\\sport.csproj"
+            },
+            "C:\\Users\\fomic\\pog_labs\\lab6\\task1\\yoga\\running.csproj": {
+              "projectPath": "C:\\Users\\fomic\\pog_labs\\lab6\\task1\\yoga\\running.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\fomic\pog_labs\lab6\task1\racing\obj\Debug\net6.0\racing.csproj.AssemblyReference.cache
+C:\Users\fomic\pog_labs\lab6\task1\racing\obj\Debug\net6.0\racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fomic\pog_labs\lab6\task1\racing\obj\Debug\net6.0\racing.AssemblyInfoInputs.cache
+C:\Users\fomic\pog_labs\lab6\task1\racing\obj\Debug\net6.0\racing.AssemblyInfo.cs
+C:\Users\fomic\pog_labs\lab6\task1\racing\obj\Debug\net6.0\racing.csproj.CoreCompileInputs.cache
+C:\Users\fomic\pog_labs\lab6\task1\racing\bin\Debug\net6.0\racing.deps.json
+C:\Users\fomic\pog_labs\lab6\task1\racing\bin\Debug\net6.0\racing.dll
+C:\Users\fomic\pog_labs\lab6\task1\racing\bin\Debug\net6.0\racing.pdb
+C:\Users\fomic\pog_labs\lab6\task1\racing\bin\Debug\net6.0\sport.dll
+C:\Users\fomic\pog_labs\lab6\task1\racing\bin\Debug\net6.0\sport.pdb
+C:\Users\fomic\pog_labs\lab6\task1\racing\obj\Debug\net6.0\racing.csproj.CopyComplete
+C:\Users\fomic\pog_labs\lab6\task1\racing\obj\Debug\net6.0\racing.dll
+C:\Users\fomic\pog_labs\lab6\task1\racing\obj\Debug\net6.0\refint\racing.dll
+C:\Users\fomic\pog_labs\lab6\task1\racing\obj\Debug\net6.0\racing.pdb
+C:\Users\fomic\pog_labs\lab6\task1\racing\obj\Debug\net6.0\ref\racing.dll

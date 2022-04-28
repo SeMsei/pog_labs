@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "main/1.0.0": {
+        "dependencies": {
+          "racing": "1.0.0",
+          "running": "1.0.0",
+          "sport": "1.0.0"
+        },
+        "runtime": {
+          "main.dll": {}
+        }
+      },
+      "racing/1.0.0": {
+        "dependencies": {
+          "sport": "1.0.0"
+        },
+        "runtime": {
+          "racing.dll": {}
+        }
+      },
+      "running/1.0.0": {
+        "dependencies": {
+          "sport": "1.0.0"
+        },
+        "runtime": {
+          "running.dll": {}
+        }
+      },
+      "sport/1.0.0": {
+        "runtime": {
+          "sport.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "racing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "running/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "sport/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

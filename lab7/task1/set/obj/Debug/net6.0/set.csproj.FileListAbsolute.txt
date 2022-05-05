@@ -1,0 +1,12 @@
+C:\users\fomic\pog_labs\lab7\task1\set\obj\Debug\net6.0\set.csproj.AssemblyReference.cache
+C:\users\fomic\pog_labs\lab7\task1\set\obj\Debug\net6.0\set.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\fomic\pog_labs\lab7\task1\set\obj\Debug\net6.0\set.AssemblyInfoInputs.cache
+C:\users\fomic\pog_labs\lab7\task1\set\obj\Debug\net6.0\set.AssemblyInfo.cs
+C:\users\fomic\pog_labs\lab7\task1\set\obj\Debug\net6.0\set.csproj.CoreCompileInputs.cache
+C:\Users\fomic\pog_labs\lab7\task1\set\bin\Debug\net6.0\set.deps.json
+C:\Users\fomic\pog_labs\lab7\task1\set\bin\Debug\net6.0\set.dll
+C:\Users\fomic\pog_labs\lab7\task1\set\bin\Debug\net6.0\set.pdb
+C:\Users\fomic\pog_labs\lab7\task1\set\obj\Debug\net6.0\set.dll
+C:\Users\fomic\pog_labs\lab7\task1\set\obj\Debug\net6.0\refint\set.dll
+C:\Users\fomic\pog_labs\lab7\task1\set\obj\Debug\net6.0\set.pdb
+C:\Users\fomic\pog_labs\lab7\task1\set\obj\Debug\net6.0\ref\set.dll

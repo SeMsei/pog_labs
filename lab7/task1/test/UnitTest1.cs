@@ -51,11 +51,28 @@ public class UnitTest1
     }
 
     [Fact]
+    public void Test9()
+    {
+        Set s1 = new Set("abcdef");
+        Set s2 = new Set("ghjjkl");
+        Set s3 = s2 * s1;
+        Assert.Equal("", s3.ToString());
+    }
+
+    [Fact]
     public void Test5()
     {
         Set s1 = new Set("abcdef");
         Set s2 = new Set("bcdqwe");
         Assert.True(s1 != s2);
+    }
+
+    [Fact]
+    public void Test10()
+    {
+        Set s1 = new Set("abcdef");
+        Set s2 = new Set("abcdef");
+        Assert.False(s1 != s2);
     }
 
     [Fact]
@@ -67,13 +84,19 @@ public class UnitTest1
     }
 
     [Fact]
+    public void Test11()
+    {
+        Set s1 = new Set("abcdef");
+        Set s2 = new Set("abcdef");
+        Assert.True(s1 == s2);
+    }
+
+    [Fact]
     public void Test8()
     {
         Set s1 = new Set("abcdef");
         string str = "abcdef";
-        Assert.True(s1.ToString() == str);
+        Assert.Equal(s1.ToString(), str);
     }
-
-    
 
 }

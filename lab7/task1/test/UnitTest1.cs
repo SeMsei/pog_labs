@@ -33,6 +33,15 @@ public class UnitTest1
     }
 
     [Fact]
+    public void Test6()
+    {
+        Set s1 = new Set("abc");
+        Set s2 = new Set("ef");
+        Set s3 = s1 - s2;
+        Assert.Equal("abc", s3.ToString());
+    }
+
+    [Fact]
     public void Test4()
     {
         Set s1 = new Set("abcdef");
@@ -46,8 +55,25 @@ public class UnitTest1
     {
         Set s1 = new Set("abcdef");
         Set s2 = new Set("bcdqwe");
-        Set s3 = s1 * s2;
         Assert.True(s1 != s2);
     }
+
+    [Fact]
+    public void Test7()
+    {
+        Set s1 = new Set("abcdef");
+        Set s2 = new Set("bcdef");
+        Assert.False(s1 == s2);
+    }
+
+    [Fact]
+    public void Test8()
+    {
+        Set s1 = new Set("abcdef");
+        string str = "abcdef";
+        Assert.True(s1.ToString() == str);
+    }
+
+    
 
 }

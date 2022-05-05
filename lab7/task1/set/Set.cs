@@ -19,6 +19,11 @@ public class Set
             list.Add(c);
         }
     }
+
+    public void Add(char c)
+    {
+        list.Add(c);
+    }
     public Set (string str)
     {
         list = new List<char>(str.Length);
